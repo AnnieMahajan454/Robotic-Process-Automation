@@ -1,6 +1,6 @@
 # Robotic-Process-Automation
 
-This repository contains UiPath automation workflows demonstrating web scraping and mouse-based UI interaction.
+This repository contains UiPath automation workflows demonstrating web scraping and activity-based UI interaction.
 The tasks showcase practical RPA techniques for extracting structured data from websites and exporting it for analysis.
 
 Task: Web Scraping + Mouse Activity
